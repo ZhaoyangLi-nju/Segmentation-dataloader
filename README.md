@@ -1,2 +1,1 @@
-# SUNRGBD_CITYSCAPES_NYUD2_COCO_PASCALVOC_dataloader
-dataloader for sunrgbd,citscapes,nyud2,coco,pascalvoc
+#dataloader for sunrgbd,citscapes,nyud2,coco,pascalvoc
